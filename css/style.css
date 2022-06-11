@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.containar{
+    width: 80%;
+    margin: auto;
+    
+}
+.icon ul{
+    list-style: none;
+
+}
+.icon ul li{
+    display: inline-block;
+
+}
+.icon ul li a{
+    background-color: red;
+    color: white;
+    padding: 30px 40px;
+    font-size: 30px;
+    display: block;
+    border-radius: 10px;
+}
+.icon ul li a:hover{
+    background-color: black;
+    color: aqua;
+    transition: 2s;
+    border-radius: 50%;
+}
+.icon1 ul{
+    list-style: none;
+
+}
+.icon1 ul li{
+    display: inline-block;
+
+}
+.icon1 ul li a{
+    background-color: blue;
+    color: white;
+    padding: 30px 40px;
+    font-size: 30px;
+    display: block;
+    border-radius: 10px;
+}
+.icon1 ul li a:hover{
+    background-color: black;
+    color: blue;
+    transition: 2s;
+    border-radius: 50%;
+}
+.icon2 ul{
+    list-style: none;
+
+}
+.icon2 ul li{
+    display: inline-block;
+
+}
+.icon2 ul li a{
+    background-color: aquamarine;
+    color: blueviolet;
+    padding: 30px 40px;
+    font-size: 30px;
+    display: block;
+    border-radius: 10px;
+}
+.icon2 ul li a:hover{
+    background-color: skyblue;
+    color: lightblue;
+    transition: 2s;
+    border-radius: 50%;
+}
+.icon3 ul{
+    list-style: none;
+
+}
+.icon3 ul li{
+    display: inline-block;
+
+}
+.icon3 ul li a{
+    background-color: rgb(253, 7, 101);
+    color: rgb(8, 236, 252);
+    padding: 30px 40px;
+    font-size: 30px;
+    display: block;
+    border-radius: 10px;
+}
+.icon3 ul li a:hover{
+    background-color: cornflowerblue;
+    color: mediumslateblue;
+    transition: 2s;
+    border-radius: 50%;
+}
+.icon4 ul{
+    list-style: none;
+
+}
+.icon4 ul li{
+    display: inline-block;
+
+}
+.icon4 ul li a{
+    background-color: rgb(0, 255, 242);
+    color: rgb(252, 76, 7);
+    padding: 30px 40px;
+    font-size: 30px;
+    display: block;
+    border-radius: 10px;
+}
+.icon4 ul li a:hover{
+    background-color: rgb(0, 195, 255);
+    color: mediumaquamarine;
+    transition: 2s;
+    border-radius: 50%;
+}
